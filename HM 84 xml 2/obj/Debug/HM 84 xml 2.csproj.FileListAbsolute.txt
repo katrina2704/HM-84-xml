@@ -1,0 +1,8 @@
+C:\Users\Katrina\source\repos\HM 84 xml 2\HM 84 xml 2\bin\Debug\HM 84 xml 2.exe.config
+C:\Users\Katrina\source\repos\HM 84 xml 2\HM 84 xml 2\bin\Debug\HM 84 xml 2.exe
+C:\Users\Katrina\source\repos\HM 84 xml 2\HM 84 xml 2\bin\Debug\HM 84 xml 2.pdb
+C:\Users\Katrina\source\repos\HM 84 xml 2\HM 84 xml 2\obj\Debug\HM 84 xml 2.csproj.AssemblyReference.cache
+C:\Users\Katrina\source\repos\HM 84 xml 2\HM 84 xml 2\obj\Debug\HM 84 xml 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Katrina\source\repos\HM 84 xml 2\HM 84 xml 2\obj\Debug\HM 84 xml 2.csproj.CoreCompileInputs.cache
+C:\Users\Katrina\source\repos\HM 84 xml 2\HM 84 xml 2\obj\Debug\HM 84 xml 2.exe
+C:\Users\Katrina\source\repos\HM 84 xml 2\HM 84 xml 2\obj\Debug\HM 84 xml 2.pdb
